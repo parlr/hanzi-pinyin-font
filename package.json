@@ -1,0 +1,7 @@
+{
+  "name": "hanzi-pinyin-font",
+  "version": "0.0.1",
+  "repository": "git@github.com:parlr/hanzi-pinyin-font.git",
+  "author": "Édouard Lopez <contact@edouard-lopez.com>",
+  "license": "Apache2"
+}
