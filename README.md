@@ -1,10 +1,10 @@
 # Hanzi Pinyin Font
 
-**:warning: issues [→ ruby-font-creator](https://github.com/parlr/ruby-font-creator/issues)**
+A font created to help students **learn and read Chinese faster** :zap: by displaying a character (汉字) and its –most popular– transliteration/pronunciation (Pīnyīn) together.
 
-A font created to help students **learn and read Chinese faster** by displaying a character (汉字) and its –most popular– transliteration/pronunciation (Pīnyīn) together.
-
-**Note:** This repository only serve to host the fonts.
+:rocket: repository role | :construction: issues
+:--- | :---
+hosting [fonts releases](/parlr/hanzi-pinyin-font/releases) | go to [ ruby-font-creator](https://github.com/parlr/ruby-font-creator/issues)
 
 ### Features
 
