@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = git@github.com:parlr/chinese-data.git
+[submodule "ruby-font-creator"]
+	path = ruby-font-creator
+	url = git@github.com:parlr/ruby-font-creator.git
