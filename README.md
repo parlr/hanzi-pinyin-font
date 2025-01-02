@@ -10,7 +10,7 @@ hosting [fonts releases](https://github.com/parlr/hanzi-pinyin-font/releases) | 
 
 | ruby position-direction | preview | state | comments
 | --- | :---: | :---: | --- |
-| top | ![top](images/annotation-top.png)  | **✔** | [TTF](Hanzi-Pinyin-Font.top.ttf), [WOFF2](Hanzi-Pinyin-Font.top.woff2)
+| top | ![top](images/annotation-top.png)  | **✔** | [TTF](Hanzi-Pinyin-Font.top.ttf), [WOFF2](Hanzi-Pinyin-Font.top.woff2), [HWT](Hanzi-Pinyin-Font.top.hwt)
 | bottom| ![bottom](images/annotation-bottom.png)  | **✖** | todo
 | left-downward| ![left-downward](images/annotation-left-downward.png)  | **✖** | todo
 | left-upward| ![left-upward](images/annotation-left-upward.png)  | **✖** | todo
